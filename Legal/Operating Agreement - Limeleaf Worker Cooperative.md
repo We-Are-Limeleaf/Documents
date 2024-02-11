@@ -1,6 +1,6 @@
 # DRAFT Operating Agreement - Limeleaf Worker Cooperative, LLC
 
-This Operating Agreement is entered into and made effective the __ day of  _____, 2024, by and among Blain Smith, Eric Straub, and John Luther (collectively referred to in this agreement as the "Founding Members").
+This Operating Agreement is entered into and made effective the __ day of  _____, 2024, by and among Blain Smith and John Luther (collectively referred to in this agreement as the "Founding Members").
 
 # 1 PURPOSE AND SCOPE
 
