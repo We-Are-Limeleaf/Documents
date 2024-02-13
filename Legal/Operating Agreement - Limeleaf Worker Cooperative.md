@@ -1,12 +1,20 @@
 # DRAFT Operating Agreement - Limeleaf Worker Cooperative, LLC
 
-This Operating Agreement is entered into and made effective the __ day of  _____, 2024, by and among Blain Smith and John Luther (collectively referred to in this agreement as the "Founding Members").
+This Operating Agreement is entered into and made effective the __ day of _____, 2024, by and among Blain Smith, Name, and John Luther (collectively referred to in this agreement as the "Founding Members").
 
 # 1 PURPOSE AND SCOPE
 
 The Company shall be organized and shall conduct its business primarily for the mutual benefit of its Members and the community. The earnings, savings, or benefits of the Company shall be used for the general welfare of the Members and the community, or it shall be proportionately and equitably distributed to its Members.
 
-The Company is democratically controlled and is not organized to make a profit for itself, as such, but primarily for its Members. Its initial scope of operations will be the development of creative technology and all activities related thereto, but the Members may authorize a different or additional scope of operations.
+The Company is democratically controlled and is not organized to make a profit for itself, as such, but primarily for its Members. Our goal is sustainable income, wealth creation, and job security for the Members, not arbitrary growth or exits.
+
+The Company’s initial scope of operations will be the development of innovative software products, contract software development, information technology services and all activities related thereto, but the Members may authorize a different or additional scope of operations.4ef
+
+Shared prosperity also means shared sacrifice. The Company avoids layoffs at all costs. In lean times, members will be paid from a rainy-day savings account, the details of which shall be decided by the modified consensus process described in Section 5.1. If the savings run out, all Members will take a pay cut of an equal percentage of their monthly salary. We only cut benefits as a last resort.
+
+## 1.1 OWNERSHIP
+
+Ownership of the company is shared equally among the Members. When a new Member joins, ownership shares are rebalanced to maintain equality. For example, with four Members, each owns 25%; if a fifth Members joins, each owns 20%, and so on.
 
 # 2 FORMATION OF COMPANY
 
@@ -36,11 +44,13 @@ The Company shall have one (1) class of Member, called simply a "Member". A Mem
 
 ## 3.2 MEMBERSHIP QUALIFICATIONS
 
-A natural person may become a Member of this Company by:
+A natural person may become a Member of the Company by:
 
+- Being one of the three founders; OR
+- Possessing legal ability to work long-term in the United States;
 - Working twelve (12) months for the Company (the "Candidacy Period");
-- Being voted in, as set forth in Section 3.3, by the existing Members following the Candidacy Period; and
-- Receiving a copy of the Company’s Articles of Organization and a receipt.
+- Being voted in, as set forth in Section 3.3, by the existing Members following the Candidacy Period;
+- Receiving a copy of the Company’s Articles of Organization and a receipt; and
 - Signing a copy of this Operating Agreement.
 
 There is no "buy-in" required to become a Member.
@@ -71,6 +81,10 @@ A Member who is expelled or suspended or whose Membership is terminated shall be
 
 In rare circumstances in which it would not be reasonable to expect a Member to discuss their concerns with another Member, such as a case of alleged sexual harassment, a majority of Members of the Company may make such modifications to this process as are necessary to respect the rights of the alleged victim. Similarly, in cases of alleged extreme misconduct, a majority of Members of the Company may take measures to protect the rights of the Company and its clients, such as suspending the accused’s access to financial assets or authority to work on behalf of the Company, pending investigation. A majority of Members shall impose the terms and duration of suspension. The default shall be that suspension is without pay, but a consensus of Members excluding the suspended Member may provide otherwise.
 
+## 3.6 DIVERSITY, EQUALITY AND INCLUSIVITY
+
+The Company is committed to creating an inclusive, safe environment for all Members, regardless of race, ethnicity, religion, color, national origin, age, disability (physical or mental), sexual orientation, gender identity, parental status, marital status, political affiliation, gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, or physical appearance.
+
 # 4 NON-MEMBERS
 
 ## 4.1 THIRD PARTY CONTRACTORS
@@ -81,7 +95,6 @@ From time to time the Members may hire external contractors as needed to conduct
 
 A non-Member Candidate is a person seeking Membership in the Company through the process described in Section 3.2. A natural person may become a non-Member Candidate by:
 
-- Being a resident of New York State [We need to discuss this one.]
 - Possessing legal ability to work long-term in the United States
 - Being approved through the normal process of decision-making described in Section 5.1
 
@@ -93,7 +106,7 @@ Matters will be discussed with the goal of seeking decision-making by consensus.
 
 ## 5.2 SCOPE OF MEETINGS
 
-Decisions subject to the process outlined in Section 5.1 include all applicable matters outlined in ORS 63.130. [Need to find the equivalent statute in New York] In addition to these matters, examples would include removing Members, contracting with third-party vendors, and the acceptance and dismissal of clients as would be appropriate during regular meetings (Section 5.5).
+Decisions subject to the process outlined in Section 5.1 include all applicable matters outlined in ORS 63.130. In addition to these matters, examples would include removing Members, contracting with third-party vendors, and the acceptance and dismissal of clients as would be appropriate during regular meetings (Section 5.5).
 
 ## 5.3 PLACE OF MEETINGS
 
@@ -125,7 +138,7 @@ Notice of a Members’ meeting shall be given and be deemed to have been given i
 
 ## 5.9 TELEPHONIC AND VIDEO CONFERENCE MEETINGS
 
-Members entitled to participate in a meeting of the Company may do so through the use of telephone or video conferencing software, or similar communications equipment, as long as all Members participating in the meeting can hear one another clerly. Participation in a meeting pursuant to this section constitutes presence in person at that meeting. The only exception is the Annual Meeting, as explained in Section 5.7. 
+Members entitled to participate in a meeting of the Company may do so through the use of telephone or video conferencing software, or similar communications equipment, as long as all Members participating in the meeting can hear one another clerly. Participation in a meeting pursuant to this section constitutes presence in person at that meeting. The only exception is the Annual Meeting, as explained in Section 5.7.
 
 ## 5.10 NO PROXIES
 
@@ -291,6 +304,8 @@ IN WITNESS WHEREOF, the parties to this Agreement execute this Operating Agreeme
 
 | ___________________________
 Blain Smith | ___________________________
-Erik Straub | ___________________________
+ | ___________________________
 John Luther |
 | --- | --- | --- |
+
+This document is based on a template by Feel Train, LLC.
